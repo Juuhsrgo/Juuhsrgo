@@ -1,7 +1,32 @@
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B33980&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
 
+<br>
 
+<div align="center">
+  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+</div>
+
+<div align="center">
+  
+ 
+  <samp>
+      <br>
+      Hi there! I'm <b>Júlia Silva</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A93B77&width=435&lines=Backend+Developer;I'm+from+Brazil+;I'm+a+Systems+Analysis+and+Development+student.(https://git.io/typing-svg)"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/juuh_♡-black" />
+</div>
+      
+<br>
+<br>
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
