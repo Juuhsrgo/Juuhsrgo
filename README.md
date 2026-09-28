@@ -62,6 +62,54 @@
 <br>
 
 ##
+---
+
+## 👩‍💻 About me
+
+```javascript
+const Júlia = {
+
+  nome: "Júlia Silva",
+
+  função: "Systems Analysisn Development Student ",
+
+  localização: "Brasília, Brasil 🇧🇷",
+
+  formação: {
+    atual: "ADS — UCB",
+    objetivo: "Engenharia de Software"
+  },
+
+  foco: [
+    "Desenvolvimento Front-end",
+    "React",
+    "JavaScript",
+    "UI/UX",
+    "Engenharia de Software",
+    "Inteligência Artificial"
+  ],
+
+  ferramentas: [
+    "Git",
+    "GitHub",
+    "Figma",
+    "Canva",
+    "VS Code",
+    "Vercel"
+  ],
+
+  paixões: [
+    "Tecnologia",
+    "Criação de projetos",
+    "Design",
+    "Fitness",
+    "Aprendizado"
+  ]
+
+}
+```
+
+---
 
 <br>
 
