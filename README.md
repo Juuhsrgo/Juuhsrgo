@@ -62,7 +62,7 @@
 <br>
 
 ##
----
+<div align="left">
 
 ## 👩‍💻 About me
 
@@ -75,41 +75,30 @@ const Júlia = {
 
   localização: "Brasília, Brasil 🇧🇷",
 
-  formação: {
-    atual: "ADS — UCB",
-    objetivo: "Engenharia de Software"
+  training: {
+    current: "ADS — UCB",
+    objective: "Engenharia de Software"
   },
 
-  foco: [
-    "Desenvolvimento Front-end",
-    "React",
-    "JavaScript",
-    "UI/UX",
-    "Engenharia de Software",
-    "Inteligência Artificial"
+  focus: [
+    "Development Backend",
+    "Cloud Computing",
+    "Java Script",
+    "AWS",
   ],
 
-  ferramentas: [
-    "Git",
-    "GitHub",
-    "Figma",
-    "Canva",
-    "VS Code",
-    "Vercel"
-  ],
-
-  paixões: [
-    "Tecnologia",
-    "Criação de projetos",
-    "Design",
-    "Fitness",
-    "Aprendizado"
+  passions: [
+    "Technology",
+    "Development",
+    "Creation",
+    "Analysis",
+    "Books"
   ]
 
 }
 ```
 
----
+</div>
 
 <br>
 
