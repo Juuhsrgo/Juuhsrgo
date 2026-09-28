@@ -71,8 +71,10 @@
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Juuhsrgo&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juuhsrgo&theme=dracula" alt="Profile details badge"/> 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juuhsrgo&theme=dracula)](https://git.io/streak-stats)
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
