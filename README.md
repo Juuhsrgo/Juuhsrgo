@@ -69,15 +69,15 @@
 ```javascript
 const Júlia = {
 
-  nome: "Júlia Silva",
+  name: "Júlia Silva",
 
-  função: "Systems Analysisn Development Student ",
+  function: "Systems Analysisn Development Student ",
 
-  localização: "Brasília, Brasil 🇧🇷",
+  location: "Brasília, Brasil 🇧🇷",
 
   training: {
     current: "ADS — UCB",
-    objective: "Engenharia de Software"
+    objective: "Cloud Architect"
   },
 
   focus: [
